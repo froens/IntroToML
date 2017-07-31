@@ -1,3 +1,8 @@
+"""
+This is just a past-time scribble and has nothing to do with machine learning.
+The program solves a Sudoku using a recursive approach with back-tracking.
+"""
+
 import time
 import copy
 
